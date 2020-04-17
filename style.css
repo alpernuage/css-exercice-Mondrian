@@ -1,0 +1,113 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  width: 35rem;
+  height:40rem;
+}
+.red-bg{
+  background-color: red;
+}
+.black-bg{
+  background-color: black;
+}
+.yellow-bg{
+  background-color: yellow;
+}
+.blue-bg{
+  background-color: blue;
+}
+.main-col {
+  height: 100%;
+  float: left;
+}
+.l25{
+  width: 25%;
+}
+.l50{
+  width: 50%;
+}
+.l75{
+  width: 75%;
+}
+.l100{
+  width: 100%;
+}
+.h5{
+  height: 5%;
+}
+.h10{
+  height: 10%;
+}
+.h15{
+  height: 15%;
+}
+.h20{
+  height: 20%;
+}
+.h25{
+  height: 25%;
+}
+.h30{
+  height: 30%;
+}
+.h40{
+  height: 40%;
+}
+.h50{
+  height: 50%;
+}
+.main-col div {
+  float: left;
+}
+.notopleft {
+  border-top: none;
+  border-left: none;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+.notopright {
+  border-top: none;
+  border-right: none;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+}
+.nobottomleft {
+  border-bottom: none;
+  border-left: none;
+  border-right: 2px solid black;
+  border-top: 2px solid black;
+}
+.nobottomright {
+  border-bottom: none;
+  border-right: none;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+}
+.notop {
+  border-top: none;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.noright {
+  border-right: none;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+}
+.nobottom {
+  border-bottom: none;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.noleft {
+  border-left: none;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+}
+.allborder {
+  border: 2px solid black;
+}
